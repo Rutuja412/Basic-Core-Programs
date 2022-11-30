@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Factors", "Prime Factors.csproj", "{14033AD2-D51C-4B3B-92D9-E73A17EEDFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14033AD2-D51C-4B3B-92D9-E73A17EEDFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14033AD2-D51C-4B3B-92D9-E73A17EEDFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14033AD2-D51C-4B3B-92D9-E73A17EEDFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14033AD2-D51C-4B3B-92D9-E73A17EEDFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5C37A5-1785-4736-8E9A-F49EC876954D}
+	EndGlobalSection
+EndGlobal
